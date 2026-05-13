@@ -8,7 +8,6 @@
 -  Studying Computer Science & Engineering
 -  Currently learning PHP, Bootstrap & JavaScript
 -  Interested in Web Development
--  From Chattogram, Bangladesh
 -  Love creating responsive websites
 
 ---
@@ -59,9 +58,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nowrinsultana&theme=tokyonight" />
 </p>
 ---
-## GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nowrinsultana&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nowrinsultana&show_icons=true&theme=tokyonight" />
 </p>
 
 ##  GitHub Streak
