@@ -1,13 +1,13 @@
 ##  Skills & Technologies
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Development;Backend+Development;Database+%26+Cloud;Mobile+App+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Frontend+Development;Backend+Development;Database+%26+Cloud;Mobile+App+Development" />
 </p>
 
 <table align="center">
 
 <tr>
-<td align="center" width="200"><strong> Frontend</strong></td>
+<td align="center" width="220"><strong> Frontend</strong></td>
 <td>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=5" height="35" />
 </td>
@@ -43,10 +43,6 @@
 
 </table>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
-</p>
-
 ---
 
 <h2 align="center">
@@ -54,13 +50,13 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nowrinsultana&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nowrinsultana&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nowrinsultana&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nowrinsultana&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nowrinsultana&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nowrinsultana&theme=tokyonight&utcOffset=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nowrinsultana&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nowrinsultana&theme=tokyonight&utcOffset=6" />
 </p>
 
 ---
@@ -70,7 +66,7 @@
 </h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Nowrinsultana&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nowrinsultana&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" />
 </p>
 
 ---
