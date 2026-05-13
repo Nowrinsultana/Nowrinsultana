@@ -3,7 +3,7 @@
 
 ---
 
-##About Me
+**About Me**
 
 -  Studying Computer Science & Engineering
 -  Currently learning PHP, Bootstrap & JavaScript
@@ -17,18 +17,29 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=php,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,java,python" />
+</p>
+
+### Database & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
 </p>
 
 ### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+### Mobile App Development
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
+
 
 ---
 
@@ -41,19 +52,19 @@
 
 ---
 
-##  GitHub Stats
+##  GitHub Profile Summary
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nowrinsultana&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nowrinsultana&theme=tokyonight" />
+</p>
+---
+## GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Nowrinsultana&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nowrinsultana&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Nowrinsultana&theme=tokyonight" />
@@ -61,9 +72,9 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-<p>
+<p align="center">
 <a href="https://github.com/Nowrinsultana">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
