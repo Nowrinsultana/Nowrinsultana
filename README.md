@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Nowrin Sultana</h1>
+<h3 align="center">CSE Student | Web Developer | Software Enthusiast</h3>
 
-<!--
-**Nowrinsultana/Nowrinsultana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Studying Computer Science & Engineering
+-  Currently learning PHP, Bootstrap & JavaScript
+-  Interested in Web Development
+-  From Chattogram, Bangladesh
+-  Love creating responsive websites
+
+---
+
+##  Skills & Technologies
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=php,python" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+##  Current Projects
+
+-  Online Book Store App
+-  Hotel Management System
+-  Checkers Game
+-  GPA Calculator
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nowrinsultana&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nowrinsultana&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Nowrinsultana&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/Nowrinsultana">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
