@@ -1,78 +1,49 @@
-<h1 align="center">Nowrin Sultana</h1>
-<h3 align="center">CSE Student | Web Developer | Software Enthusiast</h3>
-
----
-
-**About Me**
-
--  Studying Computer Science & Engineering
--  Currently learning PHP, Bootstrap & JavaScript
--  Interested in Web Development
--  Love creating responsive websites
-
----
-
 ##  Skills & Technologies
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
-</p>
+<table>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=5" height="40" />
+</td>
+</tr>
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,java,python" />
-</p>
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,php,java,python&perline=4" height="40" />
+</td>
+</tr>
 
-### Database & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
-</p>
+<tr>
+<td><strong>Database & Cloud</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&perline=3" height="40" />
+</td>
+</tr>
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="40" />
+</td>
+</tr>
 
-### Mobile App Development
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio" />
-</p>
-
-
----
-
-##  Current Projects
-
--  Online Book Store App
--  Hotel Management System
--  Checkers Game
--  GPA Calculator
-
----
-
-##  GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nowrinsultana&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nowrinsultana&theme=tokyonight" />
-</p>
-
----
-
-##  GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Nowrinsultana&theme=tokyonight" />
-</p>
+<tr>
+<td><strong>Mobile App Development</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=androidstudio&perline=1" height="40" />
+</td>
+</tr>
+</table>
 
 ---
 
 ##  Connect With Me
 
 <p align="center">
-<a href="https://github.com/Nowrinsultana">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://linkedin.com/in/nowrinsultanasrabony">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
 
