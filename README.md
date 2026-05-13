@@ -59,10 +59,6 @@
 </p>
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nowrinsultana&show_icons=true&theme=tokyonight" />
-</p>
-
 ##  GitHub Streak
 
 <p align="center">
