@@ -2,16 +2,9 @@
 
 <table>
 <tr>
-<td><strong>Frontend</strong></td>
+<td><strong>Frontend</strong><img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=5" height="40" /> </td>
 <td>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=5" height="40" />
-</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,php,java,python&perline=4" height="40" />
+<strong>Backend</strong><img src="https://skillicons.dev/icons?i=nodejs,php,java,python&perline=4" height="40" />
 </td>
 </tr>
 
